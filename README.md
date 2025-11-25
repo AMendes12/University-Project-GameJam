@@ -1,6 +1,6 @@
 # University-Project-GameJam
 
-🎮 One Time Use – Game Jam Project
+# 🎮 One Time Use – Game Jam Project
 
 Theme: One Time Use
 Development Time: 24 hours
