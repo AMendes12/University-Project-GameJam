@@ -2,40 +2,43 @@
 
 # 🎮 One Time Use – Game Jam Project
 
-Theme: One Time Use
+## Theme: 
+One Time Use
 
-Development Time: 24 hours
+## Development Time:
+24 hours
 
-Grade: 17/20
+## Grade:
+17/20
 
 In this fast-paced action prototype, every decision matters — because every resource is truly one-time use.
 
 If the player dies, the entire game must be closed and reopened before trying again. No retries. No second chances.
 
 # 🧩 Core Mechanics
-🩸 One Life Only
+## 🩸 One Life Only
 
 When you die, you must restart the application.
 
 There is no respawn.
 
-🔫 One Bullet Weapons
+## 🔫 One Bullet Weapons
 
 Every weapon has only one bullet.
 
 After firing, the weapon becomes useless — you must drop it (F) and pick up another one (E).
 
-🧗 Wall Ride
+## 🧗 Wall Ride
 
 The player can slide along walls to maintain momentum and traverse levels creatively.
 
-🪝 Grappling Gun
+## 🪝 Grappling Gun
 
 Use the grappling gun (Mouse 0) to swing, traverse gaps, and chain movement with wall rides and slides.
 
 # 🕹️ Controls
 
-Movement & Navigation
+## Movement & Navigation
 
 W / A / S / D — Move
 
@@ -51,7 +54,7 @@ Escape — Pause Menu
 
 Wall Ride — By jumping and sliding along walls
 
-Combat & Interaction
+## Combat & Interaction
 
 Q — Swing
 
