@@ -11,6 +11,9 @@ One Time Use
 ## Grade:
 17/20
 
+## Download Project
+https://amendes12.itch.io/one-pull-policy
+
 In this fast-paced action prototype, every decision matters — because every resource is truly one-time use.
 
 If the player dies, the entire game must be closed and reopened before trying again. No retries. No second chances.
