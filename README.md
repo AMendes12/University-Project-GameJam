@@ -74,3 +74,45 @@ F — Drop weapon
 Built in 24 hours for a Game Jam.
 
 All mechanics, movement system, combat, and interactions were created under intense time pressure.
+
+# 🧪 Skills & Technologies Gained
+
+Developing this project improved several technical and design skills:
+
+## 💻 Programming & Engine
+
+C# scripting
+
+Unity game development
+
+Component-based architecture
+
+Player movement & physics programming
+
+Raycasting, collision handling, and environment interaction
+
+Event-driven gameplay logic
+
+## 🎮 Gameplay Development
+
+First-person movement systems (run, slide, crouch, jump)
+
+Advanced mobility mechanics (wall ride, grappling hook)
+
+Weapon systems (one-shot weapons, pickup/drop logic)
+
+State management for limited-use mechanics
+
+Game flow design under the “one life only” constraint
+
+## 🎨 Game Jam & Design Skills
+
+Rapid prototyping
+
+Working under time pressure (24h)
+
+Scoping and feature prioritization
+
+Designing around a theme (One Time Use)
+
+Balancing movement and combat flow
