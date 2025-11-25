@@ -64,4 +64,5 @@ F — Drop weapon
 # 🛠️ Development
 
 Built in 24 hours for a Game Jam.
+
 All mechanics, movement system, combat, and interactions were created under intense time pressure.
